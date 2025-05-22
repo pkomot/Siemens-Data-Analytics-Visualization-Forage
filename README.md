@@ -1,6 +1,6 @@
-# 📊 Siemens Data Analytics & Visualization – Forage Simulation
+# 📊 Accenture Data Analytics & Visualization – Forage Simulation
 
-This repository contains my work from the Siemens Data Analytics & Visualization virtual job simulation on Forage. The program provided hands-on experience in analyzing and visualizing data to support business decisions.
+This repository contains my work from the Accenture Data Analytics & Visualization virtual job simulation on Forage. The program provided hands-on experience in analyzing and visualizing data to support business decisions.
 
 ## 🧠 Skills Demonstrated
 
